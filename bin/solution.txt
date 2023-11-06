@@ -1,0 +1,4 @@
+start from @ 
+each time search on 3 direction for IEHOVA 
+go to next letter till you reach #
+each time print direction
